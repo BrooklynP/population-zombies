@@ -1,0 +1,12 @@
+﻿  UGFW.cpp
+  TextureManager.cpp
+  Texture.cpp
+  SpriteManager.cpp
+  Sprite.cpp
+  Input.cpp
+  FontManager.cpp
+  Font.cpp
+  Application.cpp
+  Generating Code...
+  gl_core_4_4.c
+  framework.vcxproj -> C:\Users\Brooklyn\Desktop\Stuff\PopulationZombies - Using Static Libraries - Copy - Copy\ct4019\framework\lib\x64\Debug\framework.lib

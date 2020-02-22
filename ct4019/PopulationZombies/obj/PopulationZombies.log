@@ -1,0 +1,27 @@
+﻿  Weapon.cpp
+  main.cpp
+  PlayerBullet.cpp
+  Player.cpp
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\player.cpp(37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\player.cpp(43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Pickup.cpp
+  Mouse.cpp
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\mouse.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\mouse.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameObject.cpp
+  GameManager.cpp
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\gamemanager.cpp(95): error C2059: syntax error: '}'
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\gamemanager.cpp(132): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\gamemanager.cpp(138): warning C4804: '>=': unsafe use of type 'bool' in operation
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\gamemanager.cpp(154): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\gamemanager.cpp(176): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\gamemanager.cpp(181): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\gamemanager.cpp(186): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\gamemanager.cpp(191): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\gamemanager.cpp(200): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\gamemanager.cpp(203): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Enemy.cpp
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\enemy.cpp(50): warning C4101: 'iX': unreferenced local variable
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\populationzombies\enemy.cpp(50): warning C4101: 'iY': unreferenced local variable
+  Collider.cpp
+  Generating Code...

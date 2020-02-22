@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Vector2Lib.cpp
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\pmath\vector2lib.cpp(72): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\brooklyn\desktop\stuff\populationzombies - using static libraries - copy - copy\ct4019\pmath\vector2lib.cpp(73): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PMathLib.cpp
+  Generating Code...
+  PMath.vcxproj -> C:\Users\Brooklyn\Desktop\Stuff\PopulationZombies - Using Static Libraries - Copy - Copy\ct4019\x64\Debug\PMath.lib
